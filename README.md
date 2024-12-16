@@ -15,3 +15,5 @@ Any amount of donations are appreciated!
 
 LTC: LadYRVEVexYrpkvBjB8gTULTVTUzdSSXmC
 BTC: bc1quz68fqe6ljec6jpwv0jq5kf2tw7xeruq2djlag
+
+Also give a 🌟 if you think this project was helpful!
