@@ -14,7 +14,7 @@ users_table = db.table('users')
 
 intents = nextcord.Intents.default()
 intents.message_content = True
-client = commands.Bot(intents=intents)
+client = commands.Bot(command_prefix='!', intents=intents)
 
 def isuserindb(user_id):
     User = Query()
