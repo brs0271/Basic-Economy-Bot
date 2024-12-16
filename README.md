@@ -2,7 +2,7 @@
 This is a template or example of a basic economy bot. It has main functions like add balance, deduct balance, set balance, error handling, get balance and more!
 
 # How to use
-1. Do ```pip install nextcord tinydb setuptools``` in the console to install all required module.
+1. Do ```pip install nextcord tinydb setuptools``` in the console/terminal to install all the required module.
 2. Configurate the ```config.json``` file
 3. Run ```main.py```
 4. Done!
