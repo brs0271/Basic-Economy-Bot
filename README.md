@@ -14,6 +14,7 @@ You are allowed to modify or change any codes. It'll be better if you left a cre
 Any amount of donations are appreciated!
 
 LTC: LadYRVEVexYrpkvBjB8gTULTVTUzdSSXmC
+
 BTC: bc1quz68fqe6ljec6jpwv0jq5kf2tw7xeruq2djlag
 
 Also give a 🌟 if you think this project was helpful!
