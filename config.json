@@ -1,0 +1,4 @@
+{
+    "token": "your bot token",
+    "owner_id": "put your user id, this user id can get access to commands like /addmoney /setmoney /removemoney"
+}
